@@ -1,6 +1,4 @@
-# mb1313600021
+# Manual for Assignment 2 submission
 
-Course repository of mobile computing term 117, Universitas Negeri Jakarta.
-This repo is intended as submission placeholder for small scale assignments of the course.
-
-Please take not, you are not to commit to the main branch. Ensure you switch to corresponding assignment branch which you want to submit. 
+In this assignment, you can submit by doing things as explained below:
+- Create a directory of all lowercases without space of your name, but only two words allowed at most. Between words there shall be "_"
