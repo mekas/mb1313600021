@@ -1,3 +1,3 @@
-## Account Name
-Ahmad Luhur Pakerti
+## Ahmad Luhur Pakerti
+
 click this [link](https://g.dev/00shiki) for more info
