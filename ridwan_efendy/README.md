@@ -1,3 +1,3 @@
-## Name : Ridwa Efendy
+## Name : Ridwan Efendy
 
 Click this [link](https://g.dev/dyywann) for see my profile Google Developer
