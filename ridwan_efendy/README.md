@@ -1,4 +1,3 @@
-Name : Ridwa Efendy
-NIM  : 1313620002
+## Name : Ridwa Efendy
 
-Click this link for information
+Click this [link](https://g.dev/dyywann) for see my profile Google Developer
