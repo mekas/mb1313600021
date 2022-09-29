@@ -1,3 +1,3 @@
 ## Galang Kurniadhi
 
-Google Developer Account Name : [Galang Kurniadhi](https://g.dev/galangkurniadhi)
+Google Developer Account Name : [Galang](https://g.dev/galangkurniadhi)
