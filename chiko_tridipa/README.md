@@ -1,1 +1,0 @@
-Google Developer Account Name : [Chiko Tridipa](https://g.dev/choobot)
