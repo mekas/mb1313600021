@@ -1,1 +1,1 @@
-* [Happy Birthday](https://github.com/bittersandwich/HappyBirthday)
+* [Birthday Card](https://github.com/bittersandwich/HappyBirthday)
