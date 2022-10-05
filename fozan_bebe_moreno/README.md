@@ -1,4 +1,4 @@
-- [Birthday Card](github.com/fbebemoreno/birthday-card)
-- [Dice Roller](github.com/fbebemoreno/dice-roller)
-- [Tip Calculator](github.com/fbebemoreno/tip-calculator)
-- [Recycler View](github.com/fbebemoreno/recycler-view)
+- [Birthday Card](https://github.com/fbebemoreno/birthday-card.git)
+- [Dice Roller](https://github.com/fbebemoreno/dice-roller.git)
+- [Tip Calculator](https://github.com/fbebemoreno/tip-calculator.git)
+- [Recycler View](https://github.com/fbebemoreno/recycler-view.git)
