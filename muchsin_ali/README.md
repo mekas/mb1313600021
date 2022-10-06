@@ -1,1 +1,3 @@
 - [Birthday Card](https://github.com/MuchsinA08/Happy-Birthday)
+- [Dice Roller](https://github.com/MuchsinA08/Dice-Roller)
+- [Tip Calculator](https://github.com/MuchsinA08/Tip_Time)
